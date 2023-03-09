@@ -1,5 +1,7 @@
 settings.py
 cert*
+media
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
